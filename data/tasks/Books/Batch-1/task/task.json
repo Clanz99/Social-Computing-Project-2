@@ -1,0 +1,13 @@
+{
+	"task_name": "Books",
+	"batch_name": "Batch-1",
+	"allowed_tries": 2,
+	"time_check_amount": 15,
+	"annotator": false,
+	"countdown_time": false,
+	"blacklist_batches": [],
+	"whitelist_batches": [],
+	"messages": [
+		"Hai già cominciato questo lavoro senza finirlo"
+	]
+}

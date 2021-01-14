@@ -1,0 +1,1077 @@
+[
+    {
+        "unit_id": "unit_0",
+        "token_input": "PMJRWHSSSP",
+        "token_output": "EJDQPEZMCR",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_1",
+        "token_input": "ZNSZWJBQOV",
+        "token_output": "ZLOXMTAXMR",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_2",
+        "token_input": "BVGCYRKLOP",
+        "token_output": "HUIMNHKKRB",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_3",
+        "token_input": "QWAGATCCDZ",
+        "token_output": "SZDAODHVOP",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            },
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia3",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "2766",
+                "editore": "Edimedia",
+                "prezzo": "2.99",
+                "anno_pubblicazione": "2013",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia3.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_4",
+        "token_input": "GPSJPCYNEL",
+        "token_output": "EXGIQUNHCA",
+        "documents": [
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_5",
+        "token_input": "PNVCOLPWVP",
+        "token_output": "LCMYKMXYQX",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_6",
+        "token_input": "CTZOQQXKSP",
+        "token_output": "GPZHTMGBZZ",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_7",
+        "token_input": "QYUKVTRRXF",
+        "token_output": "QSHZCOSXPX",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_8",
+        "token_input": "OUSTNUDNVD",
+        "token_output": "NJLNAVXVMA",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_9",
+        "token_input": "PVPTTGJHMB",
+        "token_output": "EPTJTAVYWY",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_10",
+        "token_input": "UXHFMZTBJZ",
+        "token_output": "EFEIOMHYTY",
+        "documents": [
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_11",
+        "token_input": "QWOOASBVJN",
+        "token_output": "UNRHRTNNSU",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_12",
+        "token_input": "HOLLBANXPF",
+        "token_output": "SBBJXMUGQK",
+        "documents": [
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_13",
+        "token_input": "JCGFJTHGRR",
+        "token_output": "ALSXYHNSYI",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_14",
+        "token_input": "ONCWZTYQND",
+        "token_output": "FRQTRSKMTB",
+        "documents": [
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_15",
+        "token_input": "LUVQPFTTOB",
+        "token_output": "BULZFWISED",
+        "documents": [
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_16",
+        "token_input": "SHLMNSPZEE",
+        "token_output": "XJKRYGMHIO",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia3",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "2766",
+                "editore": "Edimedia",
+                "prezzo": "2.99",
+                "anno_pubblicazione": "2013",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia3.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_17",
+        "token_input": "NSSDHVQLCV",
+        "token_output": "BFDEHNXEPA",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_18",
+        "token_input": "VKRAKXPXZM",
+        "token_output": "GWALLDARWI",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia1",
+                "titolo": "La Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1320",
+                "editore": "San Paolo Edizioni",
+                "prezzo": "9.40",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia1.jpg"
+            },
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_19",
+        "token_input": "FJQUSQWVMX",
+        "token_output": "QQAJORVJIN",
+        "documents": [
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal3",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "168",
+                "editore": "Giunti Demetra",
+                "prezzo": "0.49",
+                "anno_pubblicazione": "2010",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal3.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia3",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "2766",
+                "editore": "Edimedia",
+                "prezzo": "2.99",
+                "anno_pubblicazione": "2013",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia3.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_20",
+        "token_input": "FYUVMFVYFM",
+        "token_output": "CTMYEABQBM",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_21",
+        "token_input": "IAUZPKDBWG",
+        "token_output": "QVWQESYAPQ",
+        "documents": [
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet1",
+                "id": "illupodiwallstreet1",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "600",
+                "editore": "Rizzoli",
+                "prezzo": "17.00",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet1.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia3",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "2766",
+                "editore": "Edimedia",
+                "prezzo": "2.99",
+                "anno_pubblicazione": "2013",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia3.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_22",
+        "token_input": "KCXOXXGNYU",
+        "token_output": "SXPIEOENYC",
+        "documents": [
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_23",
+        "token_input": "ZYAQCIHUBM",
+        "token_output": "GJHDTPUPFX",
+        "documents": [
+            {
+                "name": "illupodiwallstreet2",
+                "id": "illupodiwallstreet2",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "6.99",
+                "anno_pubblicazione": "2014",
+                "formato": "Kindle",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet2.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal1",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "190",
+                "editore": "Edimedia",
+                "prezzo": "6.80",
+                "anno_pubblicazione": "2017",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal1.jpg"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_24",
+        "token_input": "OYCBPIRCNC",
+        "token_output": "URYVHFOIGJ",
+        "documents": [
+            {
+                "name": "illupodiwallstreet3",
+                "id": "illupodiwallstreet3",
+                "titolo": "Il lupo di Wall Street",
+                "autore": "Jordan Belfort",
+                "numero_pagine": "585",
+                "editore": "BUR Rizzoli",
+                "prezzo": "11.40",
+                "anno_pubblicazione": "2015",
+                "formato": "Copertina Flessibile",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/illupodiwallstreet3.jpg"
+            },
+            {
+                "name": "HIGH",
+                "id": "lasacrabibbia2",
+                "titolo": "La Sacra Bibbia",
+                "autore": "AA.VV.",
+                "numero_pagine": "1968",
+                "editore": "EDB",
+                "prezzo": "16.05",
+                "anno_pubblicazione": "2008",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/lasacrabibbia2.jpg"
+            },
+            {
+                "name": "LOW",
+                "id": "ilfumattiapascal2",
+                "titolo": "Il fu Mattia Pascal",
+                "autore": "Luigi Pirandello",
+                "numero_pagine": "212",
+                "editore": "Newton Compton Editori",
+                "prezzo": "3.12",
+                "anno_pubblicazione": "2014",
+                "formato": "Copertina Rigida",
+                "copertina": "https://crowdsourcing-images-clanz.s3.eu-central-1.amazonaws.com/ilfumattiapascal2.jpg"
+            }
+        ]
+    }
+]

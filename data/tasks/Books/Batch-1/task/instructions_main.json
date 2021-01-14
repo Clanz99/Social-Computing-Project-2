@@ -1,0 +1,24 @@
+[
+	{
+		"caption": "Istruzioni",
+		"steps": [
+			"1. Per svolgere il lavoro, nella pagina successiva, dovrai inserire il token che ti è stato assegnato.",
+			"2. Ti verrano poste alcune domande per farci ottenere dei dati affidabili.",
+			"3. Ti verranno mostrati 3 libri con le relative informazioni, ad esempio autore, titolo e prezzo.",
+			"4. Per ogni libro dovrai rispondere soggettivamente a 6 quesiti.",
+			"5. Una volta completato il lavoro ti verrà fornito un altro token che dovrai fornire al requester che ti ha contattato."
+		]
+	},
+	{
+		"caption": "Avvertenze",
+		"steps": [
+			"• Rispondi soggettivamente alle domande e ricordati che non esiste una risposta giusta o sbagliata.",
+			"• I libri che ti vengono mostrati sono scelti casualmente tra quelli presenti nel nostro elenco. L'ordine dei libri è altrettanto casuale, dunque non è previsto un ordine predefinito.",
+			"• Alcuni quesiti sono a risposta multipla, altri richiedono la scelta di un valore tra 1 e 7 ed alcuni richiedono anche una giustificazione scritta.",
+			"• Ti chiediamo di NON rispondere a caso e di NON provare ad 'indovinare' la risposta",
+			"• Per passare alla sezione successiva devi rispondere a tutte le domande e riempire tutti i campi richiesti.",
+			"• Se chiudi la scheda non sarai più in grado di proseguire o rifare il lavoro.",
+			"• Il tuo lavoro potrebbe essere invalidato se non rispetti quanto scritto sopra."
+		]
+	}
+]

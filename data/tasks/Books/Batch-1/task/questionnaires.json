@@ -1,0 +1,112 @@
+[
+	{
+		"type": "standard",
+		"questions": [
+			{
+				"name": "age_range",
+				"text": "Quanti anni hai? *",
+				"answers": [
+					"0-18",
+					"19-25",
+					"26-35",
+					"36-50",
+					"50-80",
+					"80+"
+				]
+			},
+			{
+				"name": "genere_letterario",
+				"text": "Qual è il tuo genere letterario preferito? *",
+				"answers": [
+					"Nessuno - Non Leggo",
+					"Biografia - Autobiografia",
+					"Romanzo",
+					"Giallo",
+					"Thriller",
+					"Avventura e Azione",
+					"Fantascienza",
+					"Distopia",
+					"Fantasy",
+					"Horror",
+					"Young Adult",
+					"Rosa",
+					"Formazione",
+					"Umoristico",
+					"Altro"
+				]
+			},
+			{
+				"name": "libri_mese",
+				"text": "Quanti libri leggi in un mese? *",
+				"answers": [
+					"0-1",
+					"2-5",
+					"6-10",
+					"11+"
+				]
+			},
+			{
+				"name": "quando_leggi",
+				"text": "Solitamente quando leggi? *",
+				"answers": [
+					"Non Leggo",
+					"Mattina",
+					"Pomeriggio",
+					"Sera",
+					"Notte"
+				]
+			}
+		]
+	},
+	{
+		"type": "standard",
+		"questions": [
+			{
+				"name": "dove_leggi",
+				"text": "Dove leggi di solito? *",
+				"answers": [
+					"Non Leggo",
+					"In camera da letto",
+					"In salotto",
+					"In biblioteca",
+					"A tavola",
+					"Dal parrucchiere",
+					"In treno/metropolitana/autobus/tram",
+					"Altro"
+				]
+			},
+			{
+				"name": "come_leggi",
+				"text": "Come leggi? *",
+				"answers": [
+					"Non Leggo",
+					"Leggo subito la fine",
+					"Leggo tutto dall'inizio",
+					"Salto le parti noiose",
+					"Sottolineo le frasi che mi piacciono",
+					"Altro"
+				]
+			},
+			{
+				"name": "come_scegli_letture",
+				"text": "Come scegli le tue letture? *",
+				"answers": [
+					"Non Leggo",
+					"A caso",
+					"In base alla copertina del libro",
+					"Su consiglio di altre persone",
+					"Altro"
+				]
+			}
+		]
+	},
+	{
+		"type": "crt",
+		"questions": [
+			{
+				"name": "baseball",
+				"text": "Una mazza da baseball e una pallina costano in totale €1.10. La mazza costa €1.00 in più rispetto alla pallina. Quanti centesimi costa la pallina?"
+			}
+		]
+	}
+]

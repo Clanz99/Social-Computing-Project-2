@@ -1,0 +1,44 @@
+[
+	{
+		"caption": false,
+		"steps": [
+			"Seleziona tra Si e No"
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Seleziona tra Si e No"
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Sposta il cursore per dare una valutazione che va da un minimo di 1 a un massimo di 7, dove 1 indica per niente adueguato e 7 indica decisamente adeguato."
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Scrivi a parole tue cosa ne pensi di questa edizione"
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Sposta il cursore per dare una valutazione che va da un minimo di 1 a un massimo di 7, dove 1 indica non ha influito per niente e 7 indica ha influito molto."
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Seleziona tra Si e No"
+		]
+	},
+	{
+		"caption": false,
+		"steps": [
+			"Seleziona tra Si e No"
+		]
+	}
+]
